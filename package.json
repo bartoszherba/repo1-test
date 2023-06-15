@@ -6,7 +6,7 @@
   "author": "Bartosz Herba <bherba@vuestorefront.io>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.1.0",
-    "glob": "^10.2.6"
+    "axios": "1.2.0",
+    "glob": "7.1.1"
   }
 }
